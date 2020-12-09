@@ -2500,7 +2500,7 @@ a.action_button {
 	}
 }
 .elementor-6 .elementor-element.elementor-element-5ebda62:not(.elementor-motion-effects-element-type-background), .elementor-6 .elementor-element.elementor-element-5ebda62>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-image: url("../images/app7-wave-bg.png");
+	background-image: url(/imagenes/lineas/app7-wave-bg-violeta.png);
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover
@@ -2618,7 +2618,7 @@ a.action_button {
 	max-width: initial
 }
 .elementor-6 .elementor-element.elementor-element-302d87f:not(.elementor-motion-effects-element-type-background), .elementor-6 .elementor-element.elementor-element-302d87f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-image: url("../images/app7-wave-bg.png");
+	background-image: url(/imagenes/lineas/app7-wave-bg-violeta.png);
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover
@@ -2641,7 +2641,7 @@ a.action_button {
 	align-items: flex-start
 }
 .elementor-6 .elementor-element.elementor-element-393b01b:not(.elementor-motion-effects-element-type-background), .elementor-6 .elementor-element.elementor-element-393b01b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-image: url("../images/app7-section3-dot1.png");
+	background-image: url(/imagenes/app7-section3-dot1-amarillo.png);
 	background-position: center left;
 	background-repeat: no-repeat;
 	background-size: auto
@@ -2774,7 +2774,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-0ebb5fe .elemen
 	height: 30px
 }
 .elementor-6 .elementor-element.elementor-element-175be82:not(.elementor-motion-effects-element-type-background), .elementor-6 .elementor-element.elementor-element-175be82>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-image: url("../images/app7-wave-bg.png");
+	background-image: url(/imagenes/lineas/app7-wave-bg-violeta.png);
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover
@@ -2870,7 +2870,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-3d3c71e .elementor-st
 	font-weight: 700;
 	fill: #000;
 	color: #000;
-	background-color: #1065C5;
+	background-color: #FAB840;
 	border-radius: 30px 30px 30px 30px;
 	padding: 14px 40px 14px 40px
 }
