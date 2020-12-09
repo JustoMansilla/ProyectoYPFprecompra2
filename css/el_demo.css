@@ -4270,7 +4270,8 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 	left: 50%;
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
-	transform: translateX(-50%)
+	transform: translateX(-50%);
+	color: #FAB840
 }
 .elementor-icon i.fad {
 	width: auto
